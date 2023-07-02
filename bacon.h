@@ -1,4 +1,3 @@
-/* DO NOT ADD CODE TO THIS FILE. IT WILL BE REPLACED DURING GRADING. */
 #include <assert.h>
 #include <ctype.h>
 #include <string.h>
